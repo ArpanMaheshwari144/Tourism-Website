@@ -8,7 +8,7 @@ The following tools help make easier to work with sample code.
 ## Getting Started
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 - Once the files are on your machine, open it in [Visual Studio Code](https://code.visualstudio.com/).
-- With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+- With the files open in Visual Studio Code, then open index.html and right click and then click on **Open With Live Server** or press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 ## Documentation
 For more information, Please refer to the HTML [docs](https://developer.mozilla.org/en-US/docs/Web/HTML).<br>
